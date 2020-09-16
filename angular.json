@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "GestionStock"
+    }
+  },
+  "defaultProject": "GestionStock",
+  "cli": {
+    "analytics": "78e16164-9355-406c-8ae4-1a61412424c8"
+  }
 }
